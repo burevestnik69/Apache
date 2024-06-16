@@ -12,7 +12,7 @@
 >cd Apache/bin/Debug
 
 ## Запустите приложение:
-> start ApacheLogs.exe
+> start Apache.exe
 
 
 # Настройте конфигурационный файл config.txt
